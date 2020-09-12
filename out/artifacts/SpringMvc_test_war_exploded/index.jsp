@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>goodlock</title>
   </head>
   <body>
-  s范德萨发达省份
+    <hi> 你好。 这个就是你的开始范德萨发达省份</hi>
   </body>
 </html>
